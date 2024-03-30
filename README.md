@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @irene02IT
 - 👀 I’m interested in Coding and many other things
+- 🎓 Student at UNIMIB
 - 🌱 I’m currently learning React
 - 📫 How to reach me: erba.irene.02(at)gmail(dot)com
 <!---
